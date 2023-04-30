@@ -1,8 +1,8 @@
 def branch = "main"
-def repo = "git@github.com:myayangs/wayshub-frontend.git"
+def repo = "git@github.com:nikymn/wayshub-frontend.git"
 def cred = "appserver"
 def dir = "~/wayshub-frontend"
-def server = "devops@103.37.125.64"
+def server = "kel1@103.13.206.133"
 def imagename = "wayshub-fe"
 def dockerusername = "myyngstwn"
 
